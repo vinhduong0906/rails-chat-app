@@ -1,0 +1,17 @@
+@import 'semantic-ui';
+.chatbox {
+    width: 95%;
+    border: 1px;
+    border-style: solid;
+    height: 100%;
+    padding: 1rem;
+}
+.online-user .title {
+    border: 1px;
+    border-style: solid;
+    border-color: lightgrey;
+    margin-bottom: 5px;
+}
+.online-user .item {
+    padding-left: 3px !important;
+}
